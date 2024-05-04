@@ -1,0 +1,13 @@
+
+WRLDFLAG.ZIP
+
+This is a collection of flag icons, bmp's, and an icon dll file.
+I made them for my own use, and thought others might like them, too.
+They are accurate up to the 1995 World Almanac, except for a few 
+older ones that changed greatly, or countries that no longer exists.
+I intend to update the set when I have finished the rest of the flags
+of the world. Please let me know if you like them.
+                                                
+
+Jonathan Broadus
+jbroadus@cybernetics.net

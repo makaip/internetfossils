@@ -1,0 +1,29 @@
+/*   */
+
+body {
+	font-family: arial, sans-serif;
+	color : #663300;
+}
+
+A:active {
+	color : #cc0000;
+}
+
+A:link {
+	color : #006600;
+}
+
+A:visited {
+	color : #660000;
+}
+
+A:hover {
+	color : #990000;
+}
+
+.smaller { font-size: smaller ; }
+
+.boldColor { 
+	color: #6666cc;
+	font-weight:  bold ;
+}
